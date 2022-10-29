@@ -1,0 +1,1020 @@
+﻿央视,#genre#
+CCTV1,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV1HD_7000&/PLTV/hls.smil.m3u8
+CCTV2,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV2HD_7000&/PLTV/hls.smil.m3u8
+CCTV3,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV3HD_7000&/PLTV/hls.smil.m3u8
+CCTV4,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV4HD_7500&/PLTV/hls.smil.m3u8
+CCTV5,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV5HD_7000&/PLTV/hls.smil.m3u8
+CCTV5+,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV5plusHD_7000&/PLTV/hls.smil.m3u8
+CCTV6,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV6HD_7000&/PLTV/hls.smil.m3u8
+CCTV7,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV7HD_7000&/PLTV/hls.smil.m3u8
+CCTV8,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV8HD_7000&/PLTV/hls.smil.m3u8
+CCTV9,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV9HD_7000&/PLTV/hls.smil.m3u8
+CCTV10,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV10HD_7000&/PLTV/hls.smil.m3u8
+CCTV11,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV11HD_7500&/PLTV/hls.smil.m3u8
+CCTV12,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV12HD_7000&/PLTV/hls.smil.m3u8
+CCTV13,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV13HD_7500&/PLTV/hls.smil.m3u8
+CCTV14,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV14HD_7000&/PLTV/hls.smil.m3u8
+CCTV15,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV15HD_7500&/PLTV/hls.smil.m3u8
+CCTV16,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=1617_4500&/PLTV/hls.smil.m3u8
+CCTV16,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=1617_1500&/PLTV/hls.smil.m3u8
+CCTV17,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=CCTV17HD_7500&/PLTV/hls.smil.m3u8
+CCTV1,http://117.169.121.162:6610/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8
+CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
+CCTV1,http://39.135.138.59:18890/TVOD/88888910/224/3221225630/index.m3u8
+CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
+CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
+CCTV1,http://39.134.32.108:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT
+CCTV2,http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://39.135.138.58:18890/PLTV/88888888/224/3221225643/index.m3u8?
+CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV2,http://39.134.32.108:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
+CCTV2,http://117.169.121.162:6610/PLTV/88888910/224/3221225619/index.m3u8
+CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
+CCTV3,http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
+CCTV3,http://117.169.121.162:6610/PLTV/88888910/224/3221225647/index.m3u8
+CCTV4,http://183.207.248.15/PLTV/3/224/3221225534/index.m3u8
+CCTV4,http://183.196.25.171:808/hls/4/index.m3u8
+CCTV4,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
+CCTV4,http://117.169.120.140:8080/live/cctv-4/.m3u8
+CCTV4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+CCTV4,http://182.151.211.171:808/hls/4/index.m3u8
+CCTV5,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
+CCTV5,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
+CCTV5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
+CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
+CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
+CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5+,http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
+CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+CCTV5+,http://39.135.138.59:18890/PLTV/88888888/224/3221225706/index.m3u8
+CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5+,http://39.134.116.30:8080/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5+,http://39.134.116.30:8080/PLTV/88888910/224/3221225706/index.m3u8
+CCTV5+,http://39.135.138.59:18890/TVOD/88888910/224/3221225706/index.m3u8
+CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225706/index.m3u8
+CCTV6,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
+CCTV6,http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
+CCTV6,http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+CCTV6,http://39.134.32.102:6610/270000001111/1110000307/index.m3u8?IASHttpSessionId=OTT
+CCTV6,http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
+CCTV7,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+CCTV7,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
+CCTV7,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+CCTV7,http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
+CCTV8,http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+CCTV8,http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+CCTV9,http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
+CCTV9,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+CCTV9,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+CCTV10,http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
+CCTV10,http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+CCTV10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
+CCTV11,http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV11,http://39.135.138.59:18890/TVOD/88888910/224/3221225628/index.m3u8?
+CCTV11,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225628/index.m3u8
+CCTV11,http://39.135.138.60:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV12,http://183.196.25.171:808/hls/12/index.m3u8
+CCTV12,http://39.135.138.58:18890/TVOD/88888888/224/3221225637/index.m3u8
+CCTV12,http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
+CCTV12,http://ncyd.jilu8.cn/PLTV/88888910/224/3221225629/index.m3u8
+CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
+CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV14,http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
+CCTV14,http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
+CCTV14,http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
+CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+CCTV15,http://182.151.211.171:808/hls/15/index.m3u8
+CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+CCTV15,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV16,http://39.134.116.30:8080/PLTV/88888888/224/3221226230/index.m3u8
+CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8
+CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls
+CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
+CCTV16,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
+CCTV16,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
+CCTV17,http://39.135.138.60:18890/PLTV/88888910/224/3221225908/index.m3u8
+CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
+CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+第一剧场,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=DOXyinghuaHD_7000&/PLTV/hls.smil.m3u8
+怀旧剧场,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=DOXjuchangHD_7000&/PLTV/hls.smil.m3u8
+女性时尚,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=DOXyuanxianHD_7000&/PLTV/hls.smil.m3u8
+世界地理,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=DOXhanliuHD_7000&/PLTV/hls.smil.m3u8
+央视台球,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=DOXyinglunHD_7000&/PLTV/hls.smil.m3u8
+风云音乐,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=DOXxinyiHD_7000&/PLTV/hls.smil.m3u8
+央视文化精品,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=DOXyijiaHD_7000&/PLTV/hls.smil.m3u8
+
+卫视,#genre#
+东方卫视,http://111.12.110.95:6610/PLTV/77777777/224/3221226040/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+东方卫视,http://111.13.42.232/TVOD/88888888/224/3221226505/1.m3u8
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
+东方卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
+山东卫视,http://222.175.159.226:808/hls/19/index.m3u8
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
+山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
+山东卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225738/index.m3u8
+山东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+湖南卫视,http://111.40.196.30/PLTV/88888888/224/3221225554/index.m3u8?zweimd
+浙江卫视,http://111.40.196.25/PLTV/88888888/224/3221225510/index.m3u8?zweimd
+浙江卫视,http://222.175.159.226:808/hls/42/index.m3u8
+浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+江苏卫视,http://111.12.110.95:6610/PLTV/77777777/224/3221225966/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+江苏卫视,http://111.13.42.6/TVOD/88888888/224/3221226506/1.m3u8
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+安徽卫视,http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8
+安徽卫视,http://1.195.111.251:11190/tsfile/live/0130_1.m3u8
+安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
+北京卫视,http://111.40.196.25/PLTV/88888888/224/3221225540/index.m3u8?zweimd
+北京卫视,http://222.175.159.226:808/hls/45/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+北京卫视,http://111.40.196.32/PLTV/88888888/224/3221225527/index.m3u8?zweimd
+黑龙江卫视,http://111.40.196.27/PLTV/88888888/224/3221225544/index.m3u8
+黑龙江卫视,http://111.20.33.70/PLTV/88888893/224/3221226215/index.m3u8
+黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225736/index.m3u8
+黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+辽宁卫视,http://111.40.196.34/PLTV/88888888/224/3221225593/index.m3u8?zweimd
+辽宁卫视,http://222.175.159.226:808/hls/48/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+辽宁卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
+吉林卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
+吉林卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
+广东卫视,http://111.40.196.32/PLTV/88888888/224/3221225533/index.m3u8?zweimd
+广东卫视,http://222.175.159.226:808/hls/52/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+广东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
+广东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
+广东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
+广东卫视,http://111.40.196.31/PLTV/88888888/224/3221225531/index.m3u8?zweimd
+深圳卫视,http://111.40.196.25/PLTV/88888888/224/3221225537/index.m3u8?zweimd
+深圳卫视,http://222.175.159.226:808/hls/49/index.m3u8
+深圳卫视,http://111.40.196.25/PLTV/88888888/224/3221225537/index.m3u8
+深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+深圳卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225741/index.m3u8?zweimd
+江西卫视,http://111.40.196.30/PLTV/88888888/224/3221225560/index.m3u8?zweimd
+江西卫视,http://111.40.196.30/PLTV/88888888/224/3221225560/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+江西卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225705/index.m3u8
+天津卫视,http://111.40.196.32/PLTV/88888888/224/3221225597/index.m3u8?zweimd
+天津卫视,http://111.40.196.32/PLTV/88888888/224/3221225597/index.m3u8
+天津卫视,http://222.175.159.226:808/hls/47/index.m3u8
+天津卫视,http://111.40.196.25/PLTV/88888888/224/3221225556/index.m3u8
+天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+天津卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225739/index.m3u8
+湖北卫视,http://111.40.196.30/PLTV/88888888/224/3221225547/index.m3u8?zweimd
+湖北卫视,http://222.175.159.226:808/hls/51/index.m3u8
+湖北卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225740/index.m3u88
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+湖北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225740/index.m3u8
+重庆卫视,http://222.175.159.226:808/hls/54/index.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+重庆卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
+重庆卫视,http://39.135.138.60:18890/TVOD/88888910/224/3221225692/index.m3u8
+重庆卫视,http://182.151.211.171:808/hls/63/index.m3u8
+东南卫视,http://111.40.196.28/PLTV/88888888/224/3221225583/index.m3u8?zweimd
+东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+东南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8?icpid=88888888&from=30&hms_devid=1452
+东南卫视,http://182.151.211.171:808/hls/61/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225746/index.m3u8
+江西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
+河北卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225732/index.m3u8
+河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+河北卫视,http://222.175.159.226:808/hls/57/index.m3u8
+河北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
+河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+河南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+贵州卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
+贵州卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+贵州卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+海南卫视,http://111.40.196.35/PLTV/88888888/224/3221225623/index.m3u8
+海南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225722/index.m3u8
+海南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+海南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
+
+探索,#genre#
+动物星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/animalplanet_twn/playlist.m3u8
+探索动力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/discoveryturbo_twn/playlist.m3u8
+探索科学,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/discoverysc_twn/playlist.m3u8
+探索亚洲,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8
+国家地理人文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8
+国家地理野生频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8
+罪案侦辑,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ci_twn/playlist.m3u8
+美食星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/foodplanet_twn/playlist.m3u8
+BBC Earth,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/bbcearth_twn/playlist.m3u8
+BBC Lifestyle,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/bbclifestyle_twn/playlist.m3u8
+探索频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8
+时尚频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/fashiontv_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/Mtv/playlist.m3u8
+亚洲旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8
+国家地理人文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8
+国家地理野生频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8
+动物星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8
+探索动力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8
+探索科学,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8
+探索亚洲,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8
+罪案侦辑,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ci_twn/playlist.m3u8
+美食星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/foodplanet_twn/playlist.m3u8
+BBC Earth,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/bbcearth_twn/playlist.m3u8
+BBC Lifestyle,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/bbclifestyle_twn/playlist.m3u8
+探索频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8
+时尚频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/Mtv/playlist.m3u8
+亚洲旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8
+国家地理人文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8
+国家地理野生频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8
+动物星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8
+探索动力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8
+探索科学,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8
+探索亚洲,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8
+罪案侦辑,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ci_twn/playlist.m3u8
+美食星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8
+BBC Earth,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8
+BBC Lifestyle,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/bbclifestyle_twn/playlist.m3u8
+探索频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8
+时尚频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/fashiontv_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/Mtv/playlist.m3u8
+亚洲旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8
+国家地理人文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/natgeohd_twn/playlist.m3u8
+国家地理野生频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/natgeowild_twn/playlist.m3u8
+动物星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/animalplanet_twn/playlist.m3u8
+探索动力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/discoveryturbo_twn/playlist.m3u8
+探索科学,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/discoverysc_twn/playlist.m3u8
+探索亚洲,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/discoverytwn_twn/playlist.m3u8
+罪案侦辑,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ci_twn/playlist.m3u8
+美食星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/foodplanet_twn/playlist.m3u8
+BBC Earth,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/bbcearth_twn/playlist.m3u8
+BBC Lifestyle,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/bbclifestyle_twn/playlist.m3u8
+探索频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/discoveryhd_twn/playlist.m3u8
+时尚频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/fashiontv_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/Mtv/playlist.m3u8
+亚洲旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/asiatravel_twn/playlist.m3u8
+国家地理人文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/natgeohd_twn/playlist.m3u8
+国家地理野生频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/natgeowild_twn/playlist.m3u8
+动物星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/animalplanet_twn/playlist.m3u8
+探索动力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/discoveryturbo_twn/playlist.m3u8
+探索科学,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/discoverysc_twn/playlist.m3u8
+探索亚洲,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/discoverytwn_twn/playlist.m3u8
+罪案侦辑,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ci_twn/playlist.m3u8
+美食星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/foodplanet_twn/playlist.m3u8
+BBC Earth,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/bbcearth_twn/playlist.m3u8
+BBC Lifestyle,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/bbclifestyle_twn/playlist.m3u8
+探索频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/discoveryhd_twn/playlist.m3u8
+时尚频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/fashiontv_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/Mtv/playlist.m3u8
+亚洲旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/asiatravel_twn/playlist.m3u8
+国家地理人文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/natgeohd_twn/playlist.m3u8
+国家地理野生频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/natgeowild_twn/playlist.m3u8
+动物星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/animalplanet_twn/playlist.m3u8
+探索动力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/discoveryturbo_twn/playlist.m3u8
+探索科学,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/discoverysc_twn/playlist.m3u8
+探索亚洲,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/discoverytwn_twn/playlist.m3u8
+罪案侦辑,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ci_twn/playlist.m3u8
+美食星球,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/foodplanet_twn/playlist.m3u8
+BBC Earth,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/bbcearth_twn/playlist.m3u8
+BBC Lifestyle,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/bbclifestyle_twn/playlist.m3u8
+探索频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/discoveryhd_twn/playlist.m3u8
+时尚频道,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/fashiontv_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/Mtv/playlist.m3u8
+亚洲旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/asiatravel_twn/playlist.m3u8
+
+台湾,#genre#
+中天新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ctinews/playlist.m3u8
+中视新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8
+民视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8
+台视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8
+TVBS新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/tvbs_n/playlist.m3u8
+东森新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ettvnews/playlist.m3u8
+寰宇新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/huanyuxinwen_twn/playlist.m3u8
+TVBS,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/tvbs/playlist.m3u8
+TVBS欢乐台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8
+中天娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ctient/playlist.m3u8
+中天综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ctizhonghe/playlist.m3u8
+中天亚洲台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ttv_taiwan/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/lunghuamovie_twn/playlist.m3u8
+中视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8
+民视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8
+华视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ctshd_twn/playlist.m3u8
+公视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8
+民视台湾台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8
+民视第一台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8
+八大第一,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/badafirst/playlist.m3u8
+八大综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/badazhonghe/playlist.m3u8
+八大戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/badadrama/playlist.m3u8
+八大娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/badaentertain/playlist.m3u8
+HBO,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/hbohd_twn/playlist.m3u8
+HBO HITS,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/hbohead_twn/playlist.m3u8
+好莱坞电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8
+CINEMAX,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/cinemax_twn/playlist.m3u8
+AXN Taiwan,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/axn_twn/playlist.m3u8
+大爱1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/daai_twn/playlist.m3u8
+大爱2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/catchplay_twn/playlist.m3u8
+三立台湾,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8
+三立戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8
+三立综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/sanlizhonghe/playlist.m3u8
+东森电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ettvmovie/playlist.m3u8
+东森洋片,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ettvwestern/playlist.m3u8
+东森综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ettvzhonghe/playlist.m3u8
+东森戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ettvdrama/playlist.m3u8
+东森超视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ettvsuper/playlist.m3u8
+东森财经新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/ettvcaijing_twn/playlist.m3u8
+寰宇新闻2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/huanyutaiwan_twn/playlist.m3u8
+非凡新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/feifannews_twn/playlist.m3u8
+龙华戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/lunghuaxiju_twn/playlist.m3u8
+龙华偶像,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8
+靖天国际台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8
+靖天咨询台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/jingtianinfo_twn/playlist.m3u8
+年代新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/niandainews_twn/playlist.m3u8
+纬来日本台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/videolandjapan/playlist.m3u8
+纬来体育台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/videolandsport/playlist.m3u8
+纬来电影台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/videolandmovie/playlist.m3u8
+JET 综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/jettv_japan/playlist.m3u8
+龙华经典,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8
+龙详时代,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/lungxiangtime_twn/playlist.m3u8
+靖天卡通台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/jingtiancartoon_twn/playlist.m3u8
+博斯魅力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/bosisport1_twn/playlist.m3u8
+博斯运动 2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8
+博斯高球2 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8
+博斯网球 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/bositennis_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/Mtv/playlist.m3u8
+卫视中文台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/weishichinese_twn/playlist.m3u8
+EYETV 旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/eyetvtravel_twn/playlist.m3u8
+EYETV 戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/eyetvxiju_twn/playlist.m3u8
+美亚电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8
+星卫电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/xingwei_movie/playlist.m3u8
+爱尔达影剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8
+亚洲旅游台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8
+爱尔达体育1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/eltasport_twn/playlist.m3u8
+爱尔达体育2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8
+爱尔达体育3台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/eltasport3_twn/playlist.m3u8
+TVBS新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/tvbs_n/playlist.m3u8
+TVBS欢乐台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8
+TVBS HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/tvbs/playlist.m3u8
+中天新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ctinews/playlist.m3u8
+中天娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ctient/playlist.m3u8
+中天综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ctizhonghe/playlist.m3u8
+中天亚洲台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/lunghuamovie_twn/playlist.m3u8
+台视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8
+中视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8
+中视新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8
+民视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8
+民视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8
+民视台湾台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ftvtaiwan_twn/playlist.m3u8
+民视第一台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/lunghuajingdian_twn/playlist.m3u8
+华视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ctshd_twn/playlist.m3u8
+公视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8
+八大第一,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/badafirst/playlist.m3u8
+八大综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/badazhonghe/playlist.m3u8
+八大戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/badadrama/playlist.m3u8
+八大娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/badaentertain/playlist.m3u8
+HBO,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/hbohd_twn/playlist.m3u8
+HBO HITS,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/hbohead_twn/playlist.m3u8
+好莱坞电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8
+CINEMAX,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/cinemax_twn/playlist.m3u8
+AXN Taiwan,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/axn_twn/playlist.m3u8
+大爱1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/daai_twn/playlist.m3u8
+大爱2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/catchplay_twn/playlist.m3u8
+三立台湾,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8
+三立戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8
+三立综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8
+东森新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ettvnews/playlist.m3u8
+东森电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ettvmovie/playlist.m3u8
+东森洋片,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ettvwestern/playlist.m3u8
+东森综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8
+东森戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ettvdrama/playlist.m3u8
+东森超视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ettvsuper/playlist.m3u8
+东森财经新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8
+寰宇新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/huanyuxinwen_twn/playlist.m3u8
+非凡新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/feifannews_twn/playlist.m3u8
+龙华戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/lunghuaxiju_twn/playlist.m3u8
+龙华偶像,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/lunghuaidol_twn/playlist.m3u8
+靖天国际台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/jingtianintl_twn/playlist.m3u8
+靖天咨询台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/jingtianinfo_twn/playlist.m3u8
+年代新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/niandainews_twn/playlist.m3u8
+纬来日本台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/videolandjapan/playlist.m3u8
+纬来体育台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/videolandsport/playlist.m3u8
+JET 综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/jettv_japan/playlist.m3u8
+龙华经典,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8
+龙详时代,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/lungxiangtime_twn/playlist.m3u8
+靖天卡通台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/jingtiancartoon_twn/playlist.m3u8
+博斯魅力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/bosisport1_twn/playlist.m3u8
+博斯运动 2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8
+博斯高球2 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/bosigolf2_twn/playlist.m3u8
+博斯网球 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/bositennis_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/Mtv/playlist.m3u8
+卫视中文台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/weishichinese_twn/playlist.m3u8
+EYETV 旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8
+EYETV 戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8
+美亚电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8
+星卫电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/xingwei_movie/playlist.m3u8
+爱尔达影剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/eltayingju_twn/playlist.m3u8
+亚洲旅游台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8
+爱尔达体育1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/eltasport_twn/playlist.m3u8
+爱尔达体育2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8
+爱尔达体育3台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/eltasport3_twn/playlist.m3u8
+TVBS新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/tvbs_n/playlist.m3u8
+TVBS欢乐台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/tvbshuanle_twn/playlist.m3u8
+TVBS HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/tvbs/playlist.m3u8
+中天新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ctinews/playlist.m3u8
+中天娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ctient/playlist.m3u8
+中天综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ctizhonghe/playlist.m3u8
+中天亚洲台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/lunghuamovie_twn/playlist.m3u8
+台视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ttvnews_twn/playlist.m3u8
+中视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8
+中视新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8
+民视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8
+民视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8
+民视台湾台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8
+民视第一台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8
+华视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ctshd_twn/playlist.m3u8
+公视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8
+八大第一,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/badafirst/playlist.m3u8
+八大综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/badazhonghe/playlist.m3u8
+八大戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/badadrama/playlist.m3u8
+八大娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/badaentertain/playlist.m3u8
+HBO,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/hbohd_twn/playlist.m3u8
+HBO HITS,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/hbohead_twn/playlist.m3u8
+好莱坞电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8
+CINEMAX,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/cinemax_twn/playlist.m3u8
+AXN Taiwan,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/axn_twn/playlist.m3u8
+大爱1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/daai_twn/playlist.m3u8
+大爱2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/catchplay_twn/playlist.m3u8
+三立台湾,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/sanlitaiwan/playlist.m3u8
+三立戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/sanlixiju_twn/playlist.m3u8
+三立综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/sanlizhonghe/playlist.m3u8
+东森新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ettvnews/playlist.m3u8
+东森电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ettvmovie/playlist.m3u8
+东森洋片,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ettvwestern/playlist.m3u8
+东森综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ettvzhonghe/playlist.m3u8
+东森戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ettvdrama/playlist.m3u8
+东森超视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ettvsuper/playlist.m3u8
+东森财经新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8
+寰宇新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/huanyuxinwen_twn/playlist.m3u8
+非凡新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/feifannews_twn/playlist.m3u8
+龙华戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8
+龙华偶像,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/lunghuaidol_twn/playlist.m3u8
+靖天国际台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8
+靖天咨询台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/jingtianinfo_twn/playlist.m3u8
+年代新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/niandainews_twn/playlist.m3u8
+纬来日本台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/videolandjapan/playlist.m3u8
+纬来体育台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/videolandsport/playlist.m3u8
+JET 综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/jettv_japan/playlist.m3u8
+龙华经典,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/lunghuawestern_twn/playlist.m3u8
+龙详时代,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/lungxiangtime_twn/playlist.m3u8
+靖天卡通台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8
+博斯魅力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/bosisport1_twn/playlist.m3u8
+博斯运动 2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/bosisport2_twn/playlist.m3u8
+博斯高球2 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8
+博斯网球 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/bositennis_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/Mtv/playlist.m3u8
+卫视中文台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/weishichinese_twn/playlist.m3u8
+EYETV 旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/eyetvtravel_twn/playlist.m3u8
+EYETV 戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8
+美亚电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8
+星卫电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/xingwei_movie/playlist.m3u8
+爱尔达影剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/eltayingju_twn/playlist.m3u8
+亚洲旅游台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8
+爱尔达体育1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/eltasport_twn/playlist.m3u8
+爱尔达体育2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8
+爱尔达体育3台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/eltasport3_twn/playlist.m3u8
+TVBS新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/tvbs_n/playlist.m3u8
+TVBS欢乐台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/tvbshuanle_twn/playlist.m3u8
+TVBS HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/tvbs/playlist.m3u8
+中天新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ctinews/playlist.m3u8
+中天娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ctient/playlist.m3u8
+中天综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ctizhonghe/playlist.m3u8
+中天亚洲台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ctiasia_twn/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ttv_taiwan/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/lunghuamovie_twn/playlist.m3u8
+台视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ttvnews_twn/playlist.m3u8
+中视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/zhongshihd_twn/playlist.m3u8
+中视新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/zhongshinews_twn/playlist.m3u8
+民视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ftvhd_taiwan/playlist.m3u8
+民视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ftvnew_taiwan/playlist.m3u8
+民视台湾台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ftvtaiwan_twn/playlist.m3u8
+民视第一台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/lunghuajingdian_twn/playlist.m3u8
+华视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ctshd_twn/playlist.m3u8
+公视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ctv_taiwan/playlist.m3u8
+八大第一,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/badafirst/playlist.m3u8
+八大综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/badazhonghe/playlist.m3u8
+八大戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/badadrama/playlist.m3u8
+八大娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/badaentertain/playlist.m3u8
+HBO,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/hbohd_twn/playlist.m3u8
+HBO HITS,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/hbohead_twn/playlist.m3u8
+好莱坞电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/hollywoodmovies_twn/playlist.m3u8
+CINEMAX,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/cinemax_twn/playlist.m3u8
+AXN Taiwan,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/axn_twn/playlist.m3u8
+大爱1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/daai_twn/playlist.m3u8
+大爱2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/catchplay_twn/playlist.m3u8
+三立台湾,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/sanlitaiwan/playlist.m3u8
+三立戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/sanlixiju_twn/playlist.m3u8
+三立综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/sanlizhonghe/playlist.m3u8
+东森新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ettvnews/playlist.m3u8
+东森电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ettvmovie/playlist.m3u8
+东森洋片,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ettvwestern/playlist.m3u8
+东森综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ettvzhonghe/playlist.m3u8
+东森戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ettvdrama/playlist.m3u8
+东森超视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ettvsuper/playlist.m3u8
+东森财经新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/ettvcaijing_twn/playlist.m3u8
+寰宇新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/huanyuxinwen_twn/playlist.m3u8
+非凡新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/feifannews_twn/playlist.m3u8
+龙华戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/lunghuaxiju_twn/playlist.m3u8
+龙华偶像,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/lunghuaidol_twn/playlist.m3u8
+靖天国际台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/jingtianintl_twn/playlist.m3u8
+靖天咨询台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/jingtianinfo_twn/playlist.m3u8
+年代新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/niandainews_twn/playlist.m3u8
+纬来日本台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/videolandjapan/playlist.m3u8
+纬来体育台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/videolandsport/playlist.m3u8
+JET 综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/jettv_japan/playlist.m3u8
+龙华经典,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/lunghuawestern_twn/playlist.m3u8
+龙详时代,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/lungxiangtime_twn/playlist.m3u8
+靖天卡通台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/jingtiancartoon_twn/playlist.m3u8
+博斯魅力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/bosisport1_twn/playlist.m3u8
+博斯运动 2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/bosisport2_twn/playlist.m3u8
+博斯高球2 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/bosigolf2_twn/playlist.m3u8
+博斯网球 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/bositennis_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/Mtv/playlist.m3u8
+卫视中文台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/weishichinese_twn/playlist.m3u8
+EYETV 旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/eyetvtravel_twn/playlist.m3u8
+EYETV 戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/eyetvxiju_twn/playlist.m3u8
+美亚电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/meiyamovie_twn/playlist.m3u8
+星卫电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/xingwei_movie/playlist.m3u8
+爱尔达影剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/eltayingju_twn/playlist.m3u8
+亚洲旅游台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/asiatravel_twn/playlist.m3u8
+爱尔达体育1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/eltasport_twn/playlist.m3u8
+爱尔达体育2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/eltasport2_twn/playlist.m3u8
+爱尔达体育3台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/eltasport3_twn/playlist.m3u8
+TVBS新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/tvbs_n/playlist.m3u8
+TVBS欢乐台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/tvbshuanle_twn/playlist.m3u8
+TVBS HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/tvbs/playlist.m3u8
+中天新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ctinews/playlist.m3u8
+中天娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ctient/playlist.m3u8
+中天综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ctizhonghe/playlist.m3u8
+中天亚洲台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ctiasia_twn/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ttv_taiwan/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/lunghuamovie_twn/playlist.m3u8
+台视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ttvnews_twn/playlist.m3u8
+中视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/zhongshihd_twn/playlist.m3u8
+中视新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/zhongshinews_twn/playlist.m3u8
+民视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ftvhd_taiwan/playlist.m3u8
+民视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ftvnew_taiwan/playlist.m3u8
+民视台湾台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ftvtaiwan_twn/playlist.m3u8
+民视第一台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/lunghuajingdian_twn/playlist.m3u8
+华视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ctshd_twn/playlist.m3u8
+公视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ctv_taiwan/playlist.m3u8
+八大第一,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/badafirst/playlist.m3u8
+八大综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/badazhonghe/playlist.m3u8
+八大戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/badadrama/playlist.m3u8
+八大娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/badaentertain/playlist.m3u8
+HBO,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/hbohd_twn/playlist.m3u8
+HBO HITS,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/hbohead_twn/playlist.m3u8
+好莱坞电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/hollywoodmovies_twn/playlist.m3u8
+CINEMAX,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/cinemax_twn/playlist.m3u8
+AXN Taiwan,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/axn_twn/playlist.m3u8
+大爱1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/daai_twn/playlist.m3u8
+大爱2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/catchplay_twn/playlist.m3u8
+三立台湾,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/sanlitaiwan/playlist.m3u8
+三立戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/sanlixiju_twn/playlist.m3u8
+三立综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/sanlizhonghe/playlist.m3u8
+东森新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ettvnews/playlist.m3u8
+东森电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ettvmovie/playlist.m3u8
+东森洋片,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ettvwestern/playlist.m3u8
+东森综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ettvzhonghe/playlist.m3u8
+东森戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ettvdrama/playlist.m3u8
+东森超视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ettvsuper/playlist.m3u8
+东森财经新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/ettvcaijing_twn/playlist.m3u8
+寰宇新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/huanyuxinwen_twn/playlist.m3u8
+非凡新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/feifannews_twn/playlist.m3u8
+龙华戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/lunghuaxiju_twn/playlist.m3u8
+龙华偶像,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/lunghuaidol_twn/playlist.m3u8
+靖天国际台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/jingtianintl_twn/playlist.m3u8
+靖天咨询台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/jingtianinfo_twn/playlist.m3u8
+年代新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/niandainews_twn/playlist.m3u8
+纬来日本台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/videolandjapan/playlist.m3u8
+纬来体育台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/videolandsport/playlist.m3u8
+纬来电影台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/videolandmovie/playlist.m3u8
+JET 综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/jettv_japan/playlist.m3u8
+龙华经典,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/lunghuawestern_twn/playlist.m3u8
+龙详时代,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/lungxiangtime_twn/playlist.m3u8
+靖天卡通台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/jingtiancartoon_twn/playlist.m3u8
+博斯魅力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/bosisport1_twn/playlist.m3u8
+博斯运动 2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/bosisport2_twn/playlist.m3u8
+博斯高球2 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/bosigolf2_twn/playlist.m3u8
+博斯网球 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/bositennis_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/Mtv/playlist.m3u8
+卫视中文台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/weishichinese_twn/playlist.m3u8
+EYETV 旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/eyetvtravel_twn/playlist.m3u8
+EYETV 戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/eyetvxiju_twn/playlist.m3u8
+美亚电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/meiyamovie_twn/playlist.m3u8
+星卫电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/xingwei_movie/playlist.m3u8
+爱尔达影剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/eltayingju_twn/playlist.m3u8
+亚洲旅游台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/asiatravel_twn/playlist.m3u8
+爱尔达体育1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/eltasport_twn/playlist.m3u8
+爱尔达体育2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/eltasport2_twn/playlist.m3u8
+TVBS新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/tvbs_n/playlist.m3u8
+TVBS欢乐台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/tvbshuanle_twn/playlist.m3u8
+TVBS HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/tvbs/playlist.m3u8
+中天新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ctinews/playlist.m3u8
+中天娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ctient/playlist.m3u8
+中天综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ctizhonghe/playlist.m3u8
+中天亚洲台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ctiasia_twn/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ttv_taiwan/playlist.m3u8
+台视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/lunghuamovie_twn/playlist.m3u8
+台视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ttvnews_twn/playlist.m3u8
+中视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/zhongshihd_twn/playlist.m3u8
+中视新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/zhongshinews_twn/playlist.m3u8
+民视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ftvhd_taiwan/playlist.m3u8
+民视新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ftvnew_taiwan/playlist.m3u8
+民视台湾台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ftvtaiwan_twn/playlist.m3u8
+民视第一台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/lunghuajingdian_twn/playlist.m3u8
+华视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ctshd_twn/playlist.m3u8
+公视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ctv_taiwan/playlist.m3u8
+八大第一,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/badafirst/playlist.m3u8
+八大综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/badazhonghe/playlist.m3u8
+八大戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/badadrama/playlist.m3u8
+八大娱乐,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/badaentertain/playlist.m3u8
+HBO,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/hbohd_twn/playlist.m3u8
+HBO HITS,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/hbohead_twn/playlist.m3u8
+好莱坞电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/hollywoodmovies_twn/playlist.m3u8
+CINEMAX,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/cinemax_twn/playlist.m3u8
+AXN Taiwan,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/axn_twn/playlist.m3u8
+大爱1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/daai_twn/playlist.m3u8
+大爱2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/catchplay_twn/playlist.m3u8
+三立台湾,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/sanlitaiwan/playlist.m3u8
+三立戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/sanlixiju_twn/playlist.m3u8
+三立综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/sanlizhonghe/playlist.m3u8
+东森新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ettvnews/playlist.m3u8
+东森电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ettvmovie/playlist.m3u8
+东森洋片,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ettvwestern/playlist.m3u8
+东森综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ettvzhonghe/playlist.m3u8
+东森戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ettvdrama/playlist.m3u8
+东森超视,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ettvsuper/playlist.m3u8
+东森财经新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/ettvcaijing_twn/playlist.m3u8
+寰宇新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/huanyuxinwen_twn/playlist.m3u8
+非凡新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/feifannews_twn/playlist.m3u8
+龙华戏剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/lunghuaxiju_twn/playlist.m3u8
+龙华偶像,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/lunghuaidol_twn/playlist.m3u8
+靖天国际台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/jingtianintl_twn/playlist.m3u8
+靖天咨询台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/jingtianinfo_twn/playlist.m3u8
+年代新闻,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/niandainews_twn/playlist.m3u8
+纬来日本台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/videolandjapan/playlist.m3u8
+纬来体育台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/videolandsport/playlist.m3u8
+纬来电影台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/videolandmovie/playlist.m3u8
+JET 综合,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/jettv_japan/playlist.m3u8
+龙华经典,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/lunghuawestern_twn/playlist.m3u8
+龙详时代,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/lungxiangtime_twn/playlist.m3u8
+靖天卡通台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/jingtiancartoon_twn/playlist.m3u8
+博斯魅力,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/bosisport1_twn/playlist.m3u8
+博斯运动 2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/bosisport2_twn/playlist.m3u8
+博斯高球2 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/bosigolf2_twn/playlist.m3u8
+博斯网球 HD,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/bositennis_twn/playlist.m3u8
+MTV Live,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/Mtv/playlist.m3u8
+卫视中文台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/weishichinese_twn/playlist.m3u8
+EYETV 旅游,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/eyetvtravel_twn/playlist.m3u8
+EYETV 戏剧,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/eyetvxiju_twn/playlist.m3u8
+美亚电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/meiyamovie_twn/playlist.m3u8
+星卫电影,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/xingwei_movie/playlist.m3u8
+爱尔达影剧台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/eltayingju_twn/playlist.m3u8
+亚洲旅游台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/asiatravel_twn/playlist.m3u8
+爱尔达体育1台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/eltasport_twn/playlist.m3u8
+爱尔达体育2台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/eltasport2_twn/playlist.m3u8
+爱尔达体育3台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/eltasport3_twn/playlist.m3u8
+
+香港,#genre#
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://wxwxw.qwl1965.top:8890/港台代理/fhx.php?id=2
+凤凰中文,http://wxwxw.qwl1965.top:8890/港台代理/fhx.php?id=1
+凤凰中文,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=fhzw_1500
+翡翠台,http://wxwxw.qwl1965.top:8890/汢妭癙/tbs.php?tid=gt&id=0
+翡翠台,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=1350_4500
+明珠台,http://wvwvw.qwl1965.top:8890/广东谷豆/gudousy.php?id=1351_4500
+翡翠台,http://43.139.33.114:1935/広電唂荳/gudousy.php?id=1350_4500
+明珠台,http://43.139.33.114:1935/広電唂荳/gudousy.php?id=1351_4500
+无线新闻台,http://wxwxw.qwl1965.top:8890/汢妭癙/tbs.php?tid=gt&id=7
+无线财经台,http://wxwxw.qwl1965.top:8890/汢妭癙/tbs.php?tid=gt&id=8
+有线新闻台,http://wxwxw.qwl1965.top:8890/汢妭癙/tbs.php?tid=gt&id=18
+有线财经台,http://wxwxw.qwl1965.top:8890/汢妭癙/tbs.php?tid=gt&id=22
+无线新闻台,http://www.nettvpro.live/hls/tvb.php?id=1
+无线财经台,http://www.nettvpro.live/hls/tvb.php?id=2
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+
+无线新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/inews_twn/playlist.m3u8
+无线财经资讯台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8
+翡翠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/jade98_twn/playlist.m3u8
+翡翠台(备),http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/jade_twn/playlist.m3u8
+J2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/j2_twn/playlist.m3u8
+J5,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/j5_twn/playlist.m3u8
+明珠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/pearl_twn/playlist.m3u8
+TVB 星河,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/Xinhe/playlist.m3u8
+TVBJ1,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8#http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/tvbxinhe_twn/playlist.m3u8#http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/tvbxinhe_twn/playlist.m3u8#http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/tvbxinhe_twn/playlist.m3u8#http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8#http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/tvbxinhe_twn/playlist.m3u8
+RHK 31,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/rhk31_twn/playlist.m3u8
+RHK 32,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/rhk32_twn/playlist.m3u8
+凤凰中文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8
+凤凰资讯,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8
+凤凰香港,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8
+ViuTV,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/viu_twn/playlist.m3u8
+ViuTV1,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/viu1_twn/playlist.m3u8
+ViuTV6,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.100.90:8278/viusix_twn/playlist.m3u8
+无线新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/inews_twn/playlist.m3u8
+无线财经资讯台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/tvbcaijing_twn/playlist.m3u8
+翡翠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/jade98_twn/playlist.m3u8
+翡翠台(备),http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/jade_twn/playlist.m3u8
+J2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/j2_twn/playlist.m3u8
+J5,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/j5_twn/playlist.m3u8
+明珠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/pearl_twn/playlist.m3u8
+TVB 星河,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/Xinhe/playlist.m3u8
+RHK 31,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/rhk31_twn/playlist.m3u8
+RHK 32,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/rhk32_twn/playlist.m3u8
+凤凰中文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8
+凤凰资讯,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/phoenixinfo_hd/playlist.m3u8
+凤凰香港,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8
+ViuTV,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/viu_twn/playlist.m3u8
+ViuTV1,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/viu1_twn/playlist.m3u8
+ViuTV6,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.220.74:8278/viusix_twn/playlist.m3u8
+无线新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/inews_twn/playlist.m3u8
+无线财经资讯台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/tvbcaijing_twn/playlist.m3u8
+翡翠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/jade98_twn/playlist.m3u8
+翡翠台(备),http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/jade_twn/playlist.m3u8
+J2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/j2_twn/playlist.m3u8
+J5,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/j5_twn/playlist.m3u8
+明珠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/pearl_twn/playlist.m3u8
+TVB 星河,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/Xinhe/playlist.m3u8
+RHK 31,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/rhk31_twn/playlist.m3u8
+RHK 32,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/rhk32_twn/playlist.m3u8
+凤凰中文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/phoenixtv_hd/playlist.m3u8
+凤凰资讯,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/phoenixinfo_hd/playlist.m3u8
+凤凰香港,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/hkphoenix_twn/playlist.m3u8
+ViuTV,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/viu_twn/playlist.m3u8
+ViuTV1,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/viu1_twn/playlist.m3u8
+ViuTV6,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.10:8278/viusix_twn/playlist.m3u8
+无线新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/inews_twn/playlist.m3u8
+无线财经资讯台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/tvbcaijing_twn/playlist.m3u8
+翡翠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/jade98_twn/playlist.m3u8
+翡翠台(备),http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/jade_twn/playlist.m3u8
+J2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/j2_twn/playlist.m3u8
+J5,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/j5_twn/playlist.m3u8
+明珠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/pearl_twn/playlist.m3u8
+TVB 星河,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/Xinhe/playlist.m3u8
+RHK 31,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/rhk31_twn/playlist.m3u8
+RHK 32,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/rhk32_twn/playlist.m3u8
+凤凰中文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/phoenixtv_hd/playlist.m3u8
+凤凰资讯,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/phoenixinfo_hd/playlist.m3u8
+凤凰香港,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/hkphoenix_twn/playlist.m3u8
+ViuTV,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/viu_twn/playlist.m3u8
+ViuTV1,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/viu1_twn/playlist.m3u8
+ViuTV6,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.64.170:8278/viusix_twn/playlist.m3u8
+无线新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/inews_twn/playlist.m3u8
+无线财经资讯台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/tvbcaijing_twn/playlist.m3u8
+翡翠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/jade98_twn/playlist.m3u8
+翡翠台(备),http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/jade_twn/playlist.m3u8
+J2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/j2_twn/playlist.m3u8
+J5,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/j5_twn/playlist.m3u8
+明珠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/pearl_twn/playlist.m3u8
+TVB 星河,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/Xinhe/playlist.m3u8
+RHK 31,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/rhk31_twn/playlist.m3u8
+RHK 32,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/rhk32_twn/playlist.m3u8
+凤凰中文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/phoenixtv_hd/playlist.m3u8
+凤凰资讯,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/phoenixinfo_hd/playlist.m3u8
+凤凰香港,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/hkphoenix_twn/playlist.m3u8
+ViuTV,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/viu_twn/playlist.m3u8
+ViuTV1,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/viu1_twn/playlist.m3u8
+ViuTV6,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://198.16.106.155:8278/viusix_twn/playlist.m3u8
+无线新闻台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/inews_twn/playlist.m3u8
+无线财经资讯台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/tvbcaijing_twn/playlist.m3u8
+翡翠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/jade98_twn/playlist.m3u8
+翡翠台(备),http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/jade_twn/playlist.m3u8
+J2,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/j2_twn/playlist.m3u8
+J5,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/j5_twn/playlist.m3u8
+明珠台,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/pearl_twn/playlist.m3u8
+TVB 星河,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/Xinhe/playlist.m3u8
+RHK 31,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/rhk31_twn/playlist.m3u8
+RHK 32,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/rhk32_twn/playlist.m3u8
+凤凰中文,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/phoenixtv_hd/playlist.m3u8
+凤凰资讯,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/phoenixinfo_hd/playlist.m3u8
+凤凰香港,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/hkphoenix_twn/playlist.m3u8
+ViuTV,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/viu_twn/playlist.m3u8
+ViuTV1,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/viu1_twn/playlist.m3u8
+ViuTV6,http://jeffrey.qwl1965.top/電信聅嗵/LeoTV.php?playurl=http://50.7.168.234:8278/viusix_twn/playlist.m3u8
+
+爱4K,#genre#
+苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
+苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+4K剧集,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
+苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
+苏州4K,http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+欢笑剧场4K,http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844
+欢笑剧场4K,http://112.17.40.218:80/PLTV/88888888/224/3221230739/1.m3u8
+欢笑剧场4K,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8
+东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+4K影院,http://epg.112114.xyz/douyu/9249162
+湖南电影,http://124.232.231.246:6610/000000001001/201600020005/index.m3u8?A=&IASHttpSessionId=OTT
+黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+爱上4K,http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+爱上4K,http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
+CCTV 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV 4K超高清,https://p.ggiptv.com/v/4k.m3u8
+CCTV 8K超高清,http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
+
+上海,#genre#
+新闻综合,http://112.64.50.254:85/tsfile/live/1002_1.m3u8?key=txiptv
+新闻综合,http://mmitv.top/test/bestv.php?id=20
+新闻综合,http://live.cooltv.top/tv/shtv.php?id=shxwzh
+新闻综合,http://lu1.cc/itv/php/bst5g.php?id=shxwzh
+生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8?zshangd
+五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+五星体育,http://223.109.114.45/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+第一财经,http://lu1.cc/itv/php/bst5g.php?id=dycj
+第一财经,http://mmitv.top/test/bestv.php?id=21
+东方影视,http://111.40.196.28/PLTV/88888888/224/3221225615/index.m3u8
+哈哈炫动,http://112.25.48.13/live/program/live/hhxdhd/4000000/mnf.m3u8
+哈哈炫动,http://112.25.48.13/live/program/live/hhxdhd/4000000/mnf.m3u8
+上视外语,http://mmitv.top/test/bestv.php?id=17
+上视外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8?zshangd
+上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
+欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8?zshangd
+都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
+上海都市,http://mmitv.top/test/bestv.php?id=18
+上海都市,http://223.109.114.45/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8?zshangd
+游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8?zshangd
+极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8?zshangd
+纪实乐游,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8?zshangd
+动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8?zshangd
+幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8?zshangd
+崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
+金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
+
+轮播,#genre#
+新三国,https://epg.112114.xyz/huya/11352944
+老三国,http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
+易品三国,http://txtest-xp2p.p2p.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.xs
+倚天屠龙记13,http://txtest-xp2p.p2p.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.xs
+天龙八部97,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351814644
+神雕侠侣95,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351762426
+鹿鼎记98,http://106.53.212.251/daili/yy.php?id=28265277
+大秦帝国,http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
+康熙王朝,http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
+康熙王朝,http://121.51.249.48/tx.hls.huya.com/huyalive/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8
+雍正王朝,http://txtest-xp2p.p2p.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.xs
+隋唐英雄,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352475619
+芈月传,http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
+庆余年,http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
+好先生,http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
+
+虎牙,#genre#
+周星驰(国),http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
+周星驰(粤),http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
+历年贺岁,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+金庸武侠,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+古装武侠,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
+黑帮系列,http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
+古墓系列,http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
+警匪系列,http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
+中国功夫,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+喜剧系列,http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+动作大片,http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
+玄幻系列,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+好莱坞,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+吴孟达,http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+林正英,http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+沈腾,http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+张涵予,http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
+甄子丹,http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
+成龙,http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
+李连杰,http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+周润发,http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+刘德华,http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+洪金宝,http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+黄渤,http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+孙红雷,http://txtest-xp2p.p2p.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.xs
+刘家辉,http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+
+斗鱼,#genre#
+沈腾,http://epg.112114.xyz/huya/11601968
+王晶,http://epg.112114.xyz/huya/11602058
+李连杰,http://epg.112114.xyz/huya/11342390
+警匪片,http://epg.112114.xyz/huya/11352962
+灾难片,http://epg.112114.xyz/huya/11602075
+功夫片,http://epg.112114.xyz/huya/11352941
+黑帮影院,http://epg.112114.xyz/huya/11336719
+许氏三杰,http://epg.112114.xyz/huya/11602033
+经典港片,http://epg.112114.xyz/huya/11352965
+赛车电影,http://epg.112114.xyz/huya/11279247
+国产悬疑,http://epg.112114.xyz/huya/11342395
+
+堆堆,#genre#
+埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
+埋堆堆2,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
+埋堆堆3,http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
+埋堆堆4,http://txtest-xp2p.p2p.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.xs
+埋堆堆10,http://txtest-xp2p.p2p.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.xs
+埋堆堆11,http://txtest-xp2p.p2p.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.xs
+埋堆堆12,http://txtest-xp2p.p2p.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.xs
+埋堆堆16,http://txtest-xp2p.p2p.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.xs
+埋堆堆21,http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
+埋堆堆23,http://txtest-xp2p.p2p.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.xs
+埋堆堆24,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
+埋堆堆25,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
+埋堆堆26,http://txtest-xp2p.p2p.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.xs
+埋堆堆27,http://txtest-xp2p.p2p.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.xs
+埋堆堆28,http://txtest-xp2p.p2p.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.xs
+埋堆堆29,http://txtest-xp2p.p2p.huya.com/src/1199563479615-1199563479615-5444317857422770176-2399127082686-10057-A-0-1.xs
+埋堆堆30,http://txtest-xp2p.p2p.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.xs
+埋堆堆31,http://txtest-xp2p.p2p.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.xs
+埋堆堆32,http://txtest-xp2p.p2p.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.xs
+埋堆堆41,http://txtest-xp2p.p2p.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.xs
+埋堆堆42,http://txtest-xp2p.p2p.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.xs
+埋堆堆44,http://txtest-xp2p.p2p.huya.com/src/1199561241049-1199561241049-5434703289662832640-2399122605554-10057-A-0-1.xs
+埋堆堆47,http://txtest-xp2p.p2p.huya.com/src/1199561244004-1199561244004-5434715981291192320-2399122611464-10057-A-0-1.xs
+埋堆堆49,http://txtest-xp2p.p2p.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.xs
+埋堆堆52,http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
+埋堆堆54,http://txtest-xp2p.p2p.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.xs
+埋堆堆56,http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.xs
+埋堆堆57,http://txtest-xp2p.p2p.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.xs
+埋堆堆58,http://txtest-xp2p.p2p.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.xs
+埋堆堆61,http://txtest-xp2p.p2p.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.xs
+埋堆堆65,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
+埋堆堆66,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
+
+NTV,#genre#
+爱情喜剧 ,http://111.40.196.38/PLTV/88888888/224/3221225616/index.m3u8
+潮妈辣婆 ,http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
+动作电影 ,http://111.40.196.31/PLTV/88888888/224/3221225620/index.m3u8
+古装剧场 ,http://111.40.196.36/PLTV/88888888/224/3221225618/index.m3u8
+军旅剧场 ,http://111.40.196.28/PLTV/88888888/224/3221225622/index.m3u8
+精品纪录 ,http://111.40.196.28/PLTV/88888888/224/3221225630/index.m3u8
+精品体育 ,http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
+军事评论 ,http://111.40.196.39/PLTV/88888888/224/3221225634/index.m3u8
+惊悚悬疑 ,http://111.40.196.32/PLTV/88888888/224/3221225638/index.m3u8
+家庭剧场 ,http://111.40.196.39/PLTV/88888888/224/3221225626/index.m3u8
+农业致富 ,http://111.40.196.35/PLTV/88888888/224/3221225636/index.m3u8
+武搏世界 ,http://111.40.196.39/PLTV/88888888/224/3221225664/index.m3u8
+中国功夫 ,http://111.40.196.38/PLTV/88888888/224/3221225678/index.m3u8
+超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225765/index.m3u8
+超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
+超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
+超级综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8
+古装剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
+黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
+黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
+黑莓动画,http://39.134.115.163:8080/PLTV/88888910/224/3221225672/index.m3u8
+金牌综艺,http://39.134.115.163:8080/PLTV/88888910/224/3221225711/index.m3u8
+精品大剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
+精品纪录,http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
+精品体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
+军旅剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
+农业致富,http://39.134.115.163:8080/PLTV/88888910/224/3221225670/index.m3u8
+炫舞未来,http://39.134.115.163:8080/PLTV/88888910/224/3221225707/index.m3u8
+中国功夫,http://39.134.115.163:8080/PLTV/88888910/224/3221225660/index.m3u8
