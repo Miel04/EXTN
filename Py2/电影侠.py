@@ -28,6 +28,7 @@ _CAT_FILE = '/sdcard/Download/电影侠_cat.json'
 _SPLIT_FILE = '/sdcard/Download/电影侠_split.json'
 _SPLIT_CACHE = None
 _SPLIT_BUILDING = False
+_PIC_CDN = None
 _VC = 'https://vcache.mjrlin.cn'
 _VC_KEY = b'ayt5wy5afwmwrpb19k9s3psx3dymyd0n'
 _VC_IV = b'b3t069ijy7pirw0j'
@@ -53,7 +54,10 @@ def _cat_save(d):
 
 class Spider(Spider):
     host = 'https://www.dyx00.com'
-    pic_cdn = 'https://vres.cyscyy.com'
+    # 站点已将图片 CDN 从 cyscyy.com 迁移到 wkcyvs.cn（见站点 rdul.js 的 window.RDUL）。
+    # 这里保留当前可用主域名作为默认值，运行时再按站点实际配置动态校正（见 _pic_cdn）。
+    pic_cdn = 'https://vres.wkcyvs.cn'
+    pic_cdn_legacy = 'https://vres.cyscyy.com'
     ua = 'Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36'
     skip = ('搜索', '百度', '搜狗', '神马', '360', 'baidu', 'google', 'sogou', 'kuaishou', '快手')
     wm = ('kkys', 'kekys', '可可影视')
@@ -91,10 +95,36 @@ class Spider(Spider):
         t = (s or '').lower()
         return any(w in t for w in self.wm)
 
+    def _pic_cdn(self):
+        # 动态解析站点当前真实使用的图片 CDN 主域名：
+        # 读取首页引用的 rdul.js 中的 window.RDUL 列表，取第一个域名型主机。
+        # 任何环节失败都回退到硬编码主域名（最坏情况不差于修复前）。
+        global _PIC_CDN
+        if _PIC_CDN:
+            return _PIC_CDN
+        cdn = self.pic_cdn
+        try:
+            html = self._get(self.host + '/', timeout=6)
+            m = re.search(r'src="([^"]+rdul\.js[^"]*)"', html or '')
+            if m:
+                js = self._get(m.group(1), timeout=6)
+                blk = re.search(r'RDUL\s*=\s*\[(.*?)\]', js or '', re.S)
+                if blk:
+                    hosts = re.findall(r'"(https?://[^"]+)"', blk.group(1))
+                    # 优先选用域名型主机（排除纯 IP 回源地址），更利于国内 TVBox 直连
+                    doms = [h.rstrip('/') for h in hosts
+                            if not re.match(r'https?://\d{1,3}(?:\.\d{1,3}){3}', h)]
+                    if doms:
+                        cdn = doms[0]
+        except Exception:
+            pass
+        _PIC_CDN = cdn or self.pic_cdn
+        return _PIC_CDN
+
     def _pic(self, p):
         if not p or 'logo_placeholder' in p:
             return ''
-        return p if p.startswith('http') else self.pic_cdn + p
+        return p if p.startswith('http') else self._pic_cdn() + p
 
     def _parse_items(self, html):
         out, seen = [], set()
