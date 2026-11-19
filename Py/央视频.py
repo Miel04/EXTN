@@ -3,10 +3,12 @@
 """
 兼容 IJK / ExoPlayer / MPV 三种播放器的 HLS 直播版本:
     - playlist 带 #EXT-X-PROGRAM-DATE-TIME, Exo/MPV 才能定位直播点
-    - 带 #EXT-X-START:TIME-OFFSET=-15, 从直播点前 15 秒开始播
+    - playlist 是标准滑动直播窗口 (不带 EVENT/EXT-X-START, 兼容性最好)
     - playlist 窗口 8 片 (~50 秒), 兼顾 IJK 小窗口特性与 Exo 最小窗口要求
     - 分片 URL 指向本地 /chunk/<slug>/<seq>.ts, 由本地实时转发
-    - 后台每 2 秒刷新, playlist 请求不触发额外刷新 (避免 media-seq 跳变)
+    - 后台按模式轮询 (bkliveinfo 3 秒 / JCE 30 秒), playlist 请求不触发额外刷新
+    - 2026-11 修复: CDN 分片带 Referer 会 403; JCE 接口严格限流导致全部频道
+      播放失败 -> 全部默认走 bkliveinfo 直播, JCE 仅作兜底, 请求全部去掉 Referer 并重试
     - 每个频道带台标封面: 自动探测可用图源, 全部失败时由本地 /logo 兜底出图
 
 协议: JCE PidTimeShift + bkliveinfo(cKey) 自动切换
@@ -380,7 +382,9 @@ CHANNELS = [
 UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36'
 
 WINDOW = 300
-REFRESH_INTERVAL = 2
+BK_POLL_INTERVAL = 3              # bkliveinfo 直播只有 3 片窗口, 需要 3 秒级轮询
+JCE_POLL_INTERVAL = 30            # JCE 接口限流很严(约 10 秒 1 次), 一次取 5 分钟窗口
+BK_URL_TTL = 900                  # bk playlist 地址复用时长, 超时重新申请 cKey
 IDLE_TIMEOUT = 300
 MAX_SEGS = 400
 PLAYLIST_WINDOW = 8               # 8 片 (~50 秒), 兼顾 IJK 与 Exo/MPV
@@ -611,7 +615,12 @@ class _ChannelState:
         self.last_access = 0.0
         self.thread = None
         self.last_error = ''
-        self.mode = 'bk' if slug in FORCE_BK else 'jce'
+        self.mode = 'bk'          # 默认全部走 bkliveinfo 直播; JCE 限流太严, 仅兜底
+        self.pl_url = ''          # bk playlist 地址缓存
+        self.pl_time = 0.0
+        self.last_ok = 0.0
+        self.bk_fails = 0
+        self.jce_fails = 0
         self._starting = False
 
 
@@ -645,6 +654,7 @@ def _append_segments(ch, segs):
         while len(ch.order) > MAX_SEGS:
             ch.segments.pop(ch.order.popleft(), None)
         ch.last_error = ''
+        ch.last_ok = time.time()
 
 
 def _parse_m3u8(text, base_url):
@@ -664,13 +674,59 @@ def _parse_m3u8(text, base_url):
     return segs
 
 
+def _http_get(url, timeout=15, retries=3):
+    """极简 GET: 只带 UA。
+
+    注意: 央视频 CDN (bkoutlivecloud / outlivecloud / tlivecloud 等) 现在对
+    带 Referer 的请求直接回 403, 所以这里绝对不能加 Referer; 偶发 403 是 CDN
+    拦截, 重试基本都能拿到。
+    """
+    last = None
+    for i in range(max(1, retries)):
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': UA})
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read(), r.geturl()
+        except urllib.error.HTTPError as e:
+            last = e
+            if e.code not in (403, 408, 429, 500, 502, 503, 504):
+                raise
+        except Exception as e:
+            last = e
+        time.sleep(0.35 + 0.35 * i)
+    if isinstance(last, Exception):
+        raise last
+    raise RuntimeError('request failed')
+
+
 def _jce_refresh(ch):
     now = int(time.time())
     m3u8_url = jce_timeshift_url(ch.pid, ch.sid, now - WINDOW, now, ch.defn)
-    req = urllib.request.Request(m3u8_url, headers={'User-Agent': UA})
-    with urllib.request.urlopen(req, timeout=20) as r:
-        text = r.read().decode('utf-8', 'replace')
-    segs = _parse_m3u8(text, m3u8_url)
+    data, final = _http_get(m3u8_url, timeout=20)
+    segs = _parse_m3u8(data.decode('utf-8', 'replace'), final)
+    if not segs:
+        raise RuntimeError('empty playlist')
+    _append_segments(ch, segs)
+    return True
+
+
+def _bk_playlist(ch, url):
+    """抓一条 bk playlist (自动展开 master playlist), 成功返回 True"""
+    data, final = _http_get(url, timeout=15)
+    text = data.decode('utf-8', 'replace')
+    if '#EXT-X-STREAM-INF' in text:
+        lines = text.splitlines()
+        for i, ln in enumerate(lines):
+            if ln.strip().startswith('#EXT-X-STREAM-INF'):
+                for j in range(i + 1, len(lines)):
+                    s = lines[j].strip()
+                    if s and not s.startswith('#'):
+                        sub = urllib.parse.urljoin(final, s)
+                        data, final = _http_get(sub, timeout=15)
+                        text = data.decode('utf-8', 'replace')
+                        break
+                break
+    segs = _parse_m3u8(text, final)
     if not segs:
         raise RuntimeError('empty playlist')
     _append_segments(ch, segs)
@@ -678,35 +734,20 @@ def _jce_refresh(ch):
 
 
 def _bk_refresh(ch):
+    # 地址在 BK_URL_TTL 内可复用, 避免反复申请 cKey / 触发限流
+    if ch.pl_url and (time.time() - ch.pl_time) < BK_URL_TTL:
+        try:
+            return _bk_playlist(ch, ch.pl_url)
+        except Exception:
+            ch.pl_url = ''            # 地址或令牌失效, 重新申请
     urls = bk_playurls(ch.sid, ch.pid, ch.defn)
     last_err = ''
     for u in urls:
         try:
-            req = urllib.request.Request(u, headers={
-                'User-Agent': UA,
-                'Referer': 'https://live.cctv.cn/',
-                'Accept': 'application/vnd.apple.mpegurl,application/json,*/*',
-            })
-            with urllib.request.urlopen(req, timeout=20) as r:
-                text = r.read().decode('utf-8', 'replace')
-                final = r.geturl()
-            lines = text.splitlines()
-            for i, ln in enumerate(lines):
-                if ln.strip().startswith('#EXT-X-STREAM-INF'):
-                    for j in range(i + 1, len(lines)):
-                        s = lines[j].strip()
-                        if s and not s.startswith('#'):
-                            sub = urllib.parse.urljoin(final, s)
-                            req2 = urllib.request.Request(sub, headers={'User-Agent': UA})
-                            with urllib.request.urlopen(req2, timeout=20) as r2:
-                                text = r2.read().decode('utf-8', 'replace')
-                                final = r2.geturl()
-                            break
-                    break
-            segs = _parse_m3u8(text, final)
-            if segs:
-                _append_segments(ch, segs)
-                return True
+            _bk_playlist(ch, u)
+            ch.pl_url = u
+            ch.pl_time = time.time()
+            return True
         except Exception as e:
             last_err = '%s: %s' % (type(e).__name__, e)
             continue
@@ -715,14 +756,34 @@ def _bk_refresh(ch):
 
 def _refresh_once(ch):
     try:
-        if ch.mode == 'bk':
-            return _bk_refresh(ch)
+        if ch.mode == 'jce':
+            try:
+                ok = _jce_refresh(ch)
+                ch.jce_fails = 0
+                return ok
+            except DeadHostError:
+                ch.mode, ch.bk_fails = 'bk', 0
+                _log('%s JCE 坏域名, 切换 bkliveinfo' % ch.slug)
+                return _bk_refresh(ch)
+            except Exception as e:
+                ch.jce_fails += 1
+                ch.last_error = ('%s: %s' % (type(e).__name__, e))[:120]
+                if ch.jce_fails >= 3:
+                    ch.mode, ch.bk_fails = 'bk', 0
+                    _log('%s JCE 连续失败(%s), 回退 bkliveinfo' % (ch.slug, ch.last_error))
+                return False
+
         try:
-            return _jce_refresh(ch)
-        except DeadHostError:
-            ch.mode = 'bk'
-            _log('%s JCE 坏域名, 切换 bkliveinfo' % ch.slug)
-            return _bk_refresh(ch)
+            ok = _bk_refresh(ch)
+            ch.bk_fails = 0
+            return ok
+        except Exception as e:
+            ch.bk_fails += 1
+            ch.last_error = ('%s: %s' % (type(e).__name__, e))[:120]
+            if ch.bk_fails >= 2:
+                ch.mode, ch.jce_fails = 'jce', 0
+                _log('%s bkliveinfo 连续失败(%s), 切 JCE 兜底' % (ch.slug, ch.last_error))
+            return False
     except Exception as e:
         ch.last_error = ('%s: %s' % (type(e).__name__, e))[:120]
         return False
@@ -732,8 +793,13 @@ def _refresh_loop(ch):
     fails = 0
     while time.time() - ch.last_access < IDLE_TIMEOUT:
         ok = _refresh_once(ch)
-        fails = 0 if ok else fails + 1
-        time.sleep(REFRESH_INTERVAL if fails < 3 else 15)
+        if ok:
+            fails = 0
+            delay = BK_POLL_INTERVAL if ch.mode == 'bk' else JCE_POLL_INTERVAL
+        else:
+            fails += 1
+            delay = min(30, 4 * fails)
+        time.sleep(delay)
 
 
 def _ensure_channel(ch):
@@ -749,7 +815,12 @@ def _ensure_channel(ch):
             return
     try:
         if need_fetch:
-            _refresh_once(ch)
+            # 首次开播多试两次, CDN 偶发 403 不至于第一次就白屏
+            for i in range(3):
+                _refresh_once(ch)
+                if ch.segments:
+                    break
+                time.sleep(0.4 * (i + 1))
         if need_thread:
             ch.thread = threading.Thread(target=_refresh_loop, args=(ch,), daemon=True)
             ch.thread.start()
@@ -881,8 +952,9 @@ class _LocalHandler(BaseHTTPRequestHandler):
         _ensure_channel(ch)
 
         # ★ 不在请求时刷新, 由后台线程负责, 避免 media-seq 跳变
-        #   但也等待后台线程至少跑过一次, 保证有分片
-        for _ in range(60):
+        #   首次播放等待后台线程抓到第一批分片, 最多 8 秒
+        deadline = time.time() + 8.0
+        while time.time() < deadline:
             with ch.lock:
                 if ch.order:
                     break
@@ -892,9 +964,10 @@ class _LocalHandler(BaseHTTPRequestHandler):
             keys = list(ch.order)
             segs = [ch.segments[k] for k in keys if k in ch.segments]
             window = segs[-PLAYLIST_WINDOW:] if segs else []
+            last_err = ch.last_error
 
         if not window:
-            self._send(503, 'no data: %s\n' % (ch.last_error or 'fetching'))
+            self._send(503, 'no data: %s\n' % (last_err or 'fetching'))
             return
 
         ch.last_access = time.time()
@@ -904,15 +977,13 @@ class _LocalHandler(BaseHTTPRequestHandler):
         out = [
             '#EXTM3U',
             '#EXT-X-VERSION:3',
-            '#EXT-X-PLAYLIST-TYPE:EVENT',
             '#EXT-X-TARGETDURATION:%d' % target,
             '#EXT-X-MEDIA-SEQUENCE:%d' % window[0][0],
             '#EXT-X-DISCONTINUITY-SEQUENCE:0',
-            '#EXT-X-START:TIME-OFFSET=-15.0',   # ★ 从直播点前 15 秒开始 (Exo/MPV)
         ]
         for seq, dur, pdt, _url in window:
             if pdt:
-                out.append('#EXT-X-PROGRAM-DATE-TIME:' + pdt)   # ★ 加回 PDT
+                out.append('#EXT-X-PROGRAM-DATE-TIME:' + pdt)
             out.append('#EXTINF:%.3f,' % dur)
             out.append('http://127.0.0.1:%d/chunk/%s/%d.ts' % (port, slug, seq))
 
@@ -940,18 +1011,25 @@ class _LocalHandler(BaseHTTPRequestHandler):
             self._send(404, 'chunk expired\n')
             return
 
-        try:
-            req = urllib.request.Request(url, headers={
-                'User-Agent': UA,
-                'Referer': 'https://live.cctv.cn/',
-            })
-            with urllib.request.urlopen(req, timeout=15) as r:
-                body = r.read()
+        # ★ 绝不能带 Referer: 央视频 CDN 见到 Referer 会回 403
+        body = None
+        last_err = ''
+        for i in range(4):
+            try:
+                req = urllib.request.Request(url, headers={'User-Agent': UA})
+                with urllib.request.urlopen(req, timeout=20) as r:
+                    body = r.read()
+                break
+            except urllib.error.HTTPError as e:
+                last_err = 'HTTP %d' % e.code
+            except Exception as e:
+                last_err = str(e)
+            time.sleep(0.3 + 0.3 * i)
+        if body:
+            ch.last_access = time.time()
             self._send(200, body, 'video/mp2t')
-        except urllib.error.HTTPError as e:
-            self._send(e.code, 'chunk HTTP %d\n' % e.code)
-        except Exception as e:
-            self._send(502, 'chunk error: %s\n' % e)
+        else:
+            self._send(502, 'chunk error: %s\n' % (last_err or 'unknown'))
 
     # ---------- TS 无限流中继 (备用) ----------
 
@@ -1016,10 +1094,7 @@ class _LocalHandler(BaseHTTPRequestHandler):
                 empty = 0
                 for seq, url in cur:
                     try:
-                        req = urllib.request.Request(url, headers={
-                            'User-Agent': UA,
-                            'Referer': 'https://live.cctv.cn/',
-                        })
+                        req = urllib.request.Request(url, headers={'User-Agent': UA})
                         with urllib.request.urlopen(req, timeout=15) as r:
                             while True:
                                 chunk = r.read(64 * 1024)
@@ -1138,9 +1213,8 @@ class Spider(SpiderBase):
             return {"list": []}
         try:
             _ensure_local_server()
-            ch = CHANNEL_STATE.get(slug)
-            if ch:
-                _ensure_channel(ch)
+            # 不在这里预热频道: 浏览详情会顺手启动后台轮询, 频道看多了就会
+            # 触发央视频接口限流, 反而导致真正播放时取不到流
         except Exception:
             pass
         full_desc = "【📺 央视频直播】\n频道: %s\nHLS 直播, 本地分片转发。" % info['name']
@@ -1158,22 +1232,27 @@ class Spider(SpiderBase):
         slug = str(id).strip()
         if slug.startswith('http://') or slug.startswith('https://'):
             return {"parse": 0, "playUrl": "", "url": slug,
-                    "header": {"User-Agent": UA, "Referer": "https://live.cctv.cn/"}}
+                    "header": {"User-Agent": UA}}
         if slug not in CHANNEL_STATE:
             return {"parse": 0, "playUrl": "", "url": "", "header": {}}
 
         try:
             port = _ensure_local_server()
         except Exception:
+            # 本地服务起不来时直接给远端直播地址 (先 bk, 再 JCE 兜底)
             info = CHANNEL_MAP[slug]
             url = ''
             try:
-                now = int(time.time())
-                url = jce_timeshift_url(info['pid'], info['sid'], now - WINDOW, now, info['defn'])
+                url = bk_playurls(info['sid'], info['pid'], info['defn'])[0]
             except Exception:
                 pass
-            return {"parse": 0, "playUrl": "", "url": url,
-                    "header": {"User-Agent": UA, "Referer": "https://live.cctv.cn/"}}
+            if not url:
+                try:
+                    now = int(time.time())
+                    url = jce_timeshift_url(info['pid'], info['sid'], now - WINDOW, now, info['defn'])
+                except Exception:
+                    pass
+            return {"parse": 0, "playUrl": "", "url": url, "header": {"User-Agent": UA}}
 
         ch = CHANNEL_STATE[slug]
         _ensure_channel(ch)
@@ -1187,10 +1266,7 @@ class Spider(SpiderBase):
             "parse": 0,
             "playUrl": "",
             "url": "http://127.0.0.1:%d/%s.m3u8" % (port, slug),
-            "header": {
-                "User-Agent": UA,
-                "Referer": "https://live.cctv.cn/",
-            },
+            "header": {"User-Agent": UA},
         }
 
     def searchContent(self, key, quick, pg="1"):
